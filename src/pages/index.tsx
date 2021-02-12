@@ -3,7 +3,7 @@ import Head from 'next/head'
 
 const Home: React.FC = () => {
   return (
-    <div>
+    <div className="flex felx-col justify-center items-center h-screen">
       <Head>
         <title>Create Next App</title>
       </Head>
